@@ -43,25 +43,10 @@
 ## C# - Part II
 
 1. [Arrays] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/1.Arrays/README.md)) - 
-2. [Multidimensional Arrays] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/2.MultidimensionalArrays/README.md)) - 
-3. [Methods] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/3.Methods/README.md)) - 
-4. [Numeral Systems] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/4.NumeralSystems/README.md)) - 
-5. [Using Classes and Objects] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/5.UsingClassesAndObjects/README.md)) - 
-6. [Exception Handling] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/6.ExceptionHandling/README.md)) - 
-7. [Text Files] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/7.TextFiles/README.md)) - 
-8. [Strings and Text Processing] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/8.StringsAndTextProcessing/README.md)) - 
-9. [Exam Preparation] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/9.ExamPreparation/README.md)) - 
-10. [Exam] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/2.CSharpPartTwo/10.Exam/README.md)) - 
 
 ## CSS Styling
 
 1. [CSS Overview] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/WebDesign/2.CSSStyling/1.CSSOverview/README.md)) - 
-2. [CSS Presentation] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/WebDesign/2.CSSStyling/2.CSSPresentation/README.md)) - 
-4. [CSS Layout] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/WebDesign/2.CSSStyling/3.CSSLayout/README.md)) - 
-5. [SASS] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/WebDesign/2.CSSStyling/4.SASS/README.md)) - 
-6. [LESS] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/WebDesign/2.CSSStyling/5.LESS/README.md)) - 
-7. Exam Preparation - 
-8. [Exam] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/WebDesign/2.CSSStyling/7.Exam/README.md)) - 
 
 ---
 
