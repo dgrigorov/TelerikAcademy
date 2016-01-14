@@ -1,1 +1,0 @@
-C:\Users\Daniel\Documents\GitHub\TelerikAcademy\trunk\Programming\CSharpPartOne\1.IntroToProgramming\01.IntroToProgramming\01.IntroToProgramming\bin\Debug\01.IntroToProgramming.exe.config
