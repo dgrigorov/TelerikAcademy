@@ -14,9 +14,9 @@
 
 ## C# - Part I
 
-1. [Introduction to Programming] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/1.IntroductionToProgramming/README.md)) - 
-2. [Primitive Data Types and Variables] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/2.PrimitiveDataTypesAndVariables/README.md)) - 
-3. [Operators, Expressions and Statements] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/3.OperatorsExpressionsAndStatements/README.md)) - 
+1. [Introduction to Programming](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/01.IntroductionToProgramming) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/01.IntroductionToProgramming/README.md)) - 
+2. [Primitive Data Types and Variables](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/02.PrimitiveDataTypes) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/02.PrimitiveDataTypes/README.md)) - 
+2. [Operator, Expressions and Statements](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/03.OperatorsExpressionsAndStatements) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/03.OperatorsExpressionsAndStatements/README.md)) - 
 4. [Console Input/Output] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/4.ConsoleInputOutput/README.md)) - 
 5. [Conditional Statements] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/5.ConditionalStatements/README.md)) - 
 6. [Loops] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/6.Loops/README.md)) - 
