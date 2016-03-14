@@ -14,7 +14,7 @@
 
 ## C# - Part I
 
-1. [Introduction to Programming] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/1.IntroductionToProgramming/README.md)) - 
+1. [Introduction to Programming] - (https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/01.IntroductionToProgramming) ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/01.IntroductionToProgramming/README.md)) - 
 2. [Primitive Data Types and Variables] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/2.PrimitiveDataTypesAndVariables/README.md)) - 
 3. [Operators, Expressions and Statements] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/3.OperatorsExpressionsAndStatements/README.md)) - 
 4. [Console Input/Output] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/4.ConsoleInputOutput/README.md)) - 
