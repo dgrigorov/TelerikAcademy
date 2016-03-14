@@ -1,0 +1,18 @@
+﻿using System;
+
+class DeclareVariables
+{
+    static void Main()
+    {
+        ushort varUShort = 52130;
+        sbyte varSByte = -115;
+        uint varUInt = 4825932;
+        byte varByte = 97;
+        int varInt = -10000;
+        Console.WriteLine("ushort = {0}", varUShort);
+        Console.WriteLine("sbyte = {0}", varSByte);
+        Console.WriteLine("uint = {0}", varUInt);
+        Console.WriteLine("byte = {0}", varByte);
+        Console.WriteLine("int = {0}", varInt);
+    }
+}
