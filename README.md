@@ -16,8 +16,8 @@
 
 1. [Introduction to Programming](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/01.IntroductionToProgramming) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/01.IntroductionToProgramming/README.md)) - 
 2. [Primitive Data Types and Variables](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/02.PrimitiveDataTypes) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/02.PrimitiveDataTypes/README.md)) - 
-2. [Operator, Expressions and Statements](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/03.OperatorsExpressionsAndStatements) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/03.OperatorsExpressionsAndStatements/README.md)) - 
-4. [Console Input/Output] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/4.ConsoleInputOutput/README.md)) - 
+3. [Operator, Expressions and Statements](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/03.OperatorsExpressionsAndStatements) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/03.OperatorsExpressionsAndStatements/README.md)) - 
+4. [Console Input/Output](https://github.com/dgrigorov/TelerikAcademy/tree/master/Programming/CSharpPartOne/04.ConsoleIO) - ([assignment](https://github.com/dgrigorov/TelerikAcademy/blob/master/Programming/CSharpPartOne/04.ConsoleIO/README.md)) - 
 5. [Conditional Statements] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/5.ConditionalStatements/README.md)) - 
 6. [Loops] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/6.Loops/README.md)) - 
 7. Sample Test | [Exam Preparation] - ([assignment](https://github.com/jasssonpet/TelerikAcademy/blob/master/Programming/1.CSharpPartOne/7.ExamPreparation/README.md)) - 
